@@ -1,0 +1,17 @@
+{
+    "BotAuth": {
+      "Token": "MTM0ODQ4ODUwMDgxODc0MzMxNg.Gq6pr0.3s2052ifeqo0Y9UOpGtj_Z5yWt1VELmPfVWZh4"
+    },
+  
+    "EmbedSettings": {
+      "SuccessColor": "0xff0000",
+      "ErrorColor": "0x000000",
+  
+      "FooterText": "Medbot - Created by t.me/whyyy"
+    },
+  
+    "DatabaseConfig": {
+      "ModuleFolder": "./medbot/commands",
+      "SchemaPath": "schema.sql"
+    }
+  }
